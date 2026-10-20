@@ -1,0 +1,17 @@
+# Reference project (not part of PadBro)
+#sinema-project/
+
+# Environment files
+.env
+*.env.docker
+**/.env.docker
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log

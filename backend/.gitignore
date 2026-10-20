@@ -1,0 +1,13 @@
+# Environment files
+.env.docker
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
